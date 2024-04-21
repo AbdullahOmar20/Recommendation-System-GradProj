@@ -1,0 +1,144 @@
+﻿CpuName,Manufacturer,SingleScore,MultiScore,Cores,Threads,BaseClock,TurboClock,Type,Categories,Price,SubCategories
+Threadripper 3990X,AMD,1262,75671,64,128,2.9,4.5,Rendering moduling simulation streaming gaming server,Workstation ,"4,861.00","Design-Engineering & 3D Modeling, Simulation, and Machine Learning & AI"
+Threadripper Pro 3995WX,AMD,1231,73220,64,128,2.7,4.2,Rendering moduling simulation streaming gaming server,Workstation ,6866,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI& Video Editing"
+Epyc 7702P,AMD,993,48959,64,128,2,3.35,Rendering moduling simulation streaming server,Workstation ,"1,898","Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI& Video Editing"
+Threadripper 3970X,AMD,1308,46874,32,64,3.7,4.5,Rendering moduling simulation streaming gaming server,Workstation ,"2,495.00","Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI &  Video Editing"
+Threadripper Pro 3975WX,AMD,1244,43450,32,64,3.5,4.2,Rendering moduling simulation streaming gaming server,Workstation ,"2,997","Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI&  for Video Editing"
+Threadripper 3960X,AMD,1307,34932,24,64,3.8,4.5,Rendering moduling simulation streaming gaming server,Workstation ,"1,475","Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI&  for Video Editing"
+Threadripper 2990WX,AMD,1005,29651,32,64,3,4.2,Rendering moduling simulation streaming gaming server,Workstation ,"2,000","Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI&  for Video Editing"
+Ryzen 9 5950X,AMD,1684,28782,16,32,3.4,4.9,Rendering moduling simulation streaming gaming,Workstation ,441.71,Very Capable for all categories
+Core i9 12900K,Intel,2007,27852,16,24,3.2,5.2,Rendering moduling simulation streaming gaming,Workstation ,399.99,Very Capable for all categories
+Core i9 12900KF,Intel,1974,27852,16,24,3.2,5.2,Rendering moduling simulation streaming gaming,Workstation ,398.99,Very Capable for all categories
+Core i9 12900KS,Intel,2082,27796,16,24,3.4,5.5,Rendering moduling simulation streaming gaming,Workstation ,399.99,Very Capable for all categories 
+Threadripper Pro 3955WX,AMD,1401,27175,16,32,3.9,4.3,Rendering moduling simulation streaming gaming server,Workstation ,991,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i9 9980XE,Intel,1114,27093,18,36,3,4.4,Rendering moduling simulation streaming gaming,Workstation ,"1,087","Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Ryzen 9 3950X,AMD,1406,26375,16,32,3.5,4.7,Rendering moduling simulation streaming gaming,Workstation ,459.99,Very Capable for all categories 
+Core i9 10980XE,Intel,1063,25490,18,36,3,4.6,Rendering moduling simulation streaming gaming,Workstation ,"1,121.48","Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i7 12700K,Intel,1950,23168,12,20,3.6,5,Rendering moduling simulation streaming gaming ,Workstation ,409,Very Capable for all categories 
+Core i7 12700KF,Intel,1958,22997,12,20,3.6,5,Rendering moduling simulation streaming gaming,Workstation ,276,Very Capable for all categories 
+Ryzen 9 5900X,AMD,1670,22046,12,24,3.7,4.8,Rendering moduling simulation streaming gaming,Workstation ,299.99,Very Capable for all categories 
+Ryzen 9 5900,AMD,1608,21071,12,24,3,4.7,Rendering moduling simulation streaming gaming ,Workstation ,299.99,Very Capable for all categories 
+Threadripper 1950X,AMD,1027,19635,16,32,3.4,4,Rendering moduling simulation server,Workstation ,583.1,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Threadripper 2950X,AMD,1135,18797,16,32,3.5,4.4,Rendering moduling simulation server,Workstation ,"1,075","Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Ryzen 9 3900X,AMD,1312,18682,12,24,3.8,4.6,Rendering moduling simulation streaming gaming ,Workstation ,390,Very Capable for all categories 
+Ryzen 9 3900XT,AMD,1354,18511,12,24,4.1,4.7,Rendering moduling simulation streaming gaming ,Workstation ,390,Very Capable for all categories 
+Core i9 7980XE,Intel,1287,18389,18,36,2.6,4.2,Rendering moduling streaming gaming ,Workstation ,773.28,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i9 9960X,Intel,1085,18125,16,32,3.1,4.4,Rendering moduling simulation streaming gaming ,Workstation ,"1,398.11","Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i5 12600KF,Intel,1929,17979,10,16,3.7,4.9,Rendering moduling simulation streaming gaming ,Desktop ,219.94,Very Capable for all categories (Gaming)
+Core i9 10900KF,Intel,1516,17486,10,20,3.7,5.3,Rendering moduling simulation streaming gaming ,Workstation ,315.19,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i5 12600K,Intel,1904,17400,10,16,3.7,4.9,Desktop,Desktop ,199.99,Very Capable for all categories (Gaming)
+Core i9 10940X,Intel,1250,16427,14,28,3.3,4.6,Desktop,Workstation ,897.05,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i9 11900KF,Intel,1670,16367,8,16,3.5,5.3,Desktop,Desktop ,415.99,Very Capable for all categories 
+Core i7 12700,Intel,1875,16225,12,20,3.6,4.9,Desktop,Workstation ,409,Very Capable for all categories 
+Core i9 11900K,Intel,1671,16211,8,16,3.5,5.3,Desktop,Desktop ,318.9,Very Capable for all categories 
+Core i9 10850K,Intel,1325,15762,10,20,3.6,5.2,Desktop,Workstation ,265.99,Very Capable for all categories 
+Core i9 10920X,Intel,1307,15709,12,24,3.5,4.6,Desktop,Workstation ,757.9,Very Capable for all categories 
+Core i9 9940X,Intel,1248,15585,14,28,3.3,4.4,Desktop,Workstation ,871.03,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i9 10900K,Intel,1433,15564,10,20,3.7,5.3,Desktop,Workstation ,319.99,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i9 7960X,Intel,1117,15301,16,32,2.8,4.2,Desktop,Workstation ,367.98,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i7 11700KF,Intel,1578,15223,8,16,3.6,5,Desktop,Desktop ,262.99,Very Capable for all categories (Gaming)
+Core i7 11700K,Intel,1582,15136,8,16,3.6,5,Desktop,Desktop ,276.1,Very Capable for all categories (Gaming)
+Ryzen 7 5800X3D,AMD,1516,15049,8,16,3.4,4.5,Desktop,Desktop ,298.00 ,Very Capable for all categories (Gaming)
+Threadripper 1920X,AMD,1054,15038,12,24,3.5,4,Desktop,Workstation ,210,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i9 9920X,Intel,1077,15018,12,24,3.5,4.4,Desktop,Workstation ,610.31,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Ryzen 7 5800X,AMD,1596,14812,8,16,3.8,4.7,Desktop,Desktop ,450,Very Capable for all categories 
+Core i9 10900X,Intel,1159,14480,10,20,3.7,4.5,Desktop,Workstation ,605,Very Capable for all categories 
+Ryzen 7 5700X,AMD,1539,14437,8,16,3.4,4.6,Desktop,Desktop ,184.99,Very Capable for all categories (Gaming)
+Ryzen 7 5700G,AMD,1535,14350,8,16,3.8,4.6,Desktop,Desktop ,167.86,Very Capable for all categories (Gaming)
+Ryzen 7 5800,AMD,1580,14231,8,16,3.4,4.6,Desktop,Desktop ,289.55,Very Capable for all categories 
+Core i9 9900X,Intel,1189,14180,10,20,3.5,4.4,Desktop,Workstation ,553.29,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Ryzen 7 3800X,AMD,1346,13848,8,16,3.9,4.5,Desktop,Desktop ,206.5,Very Capable for all categories (Gaming)
+Core i7 7820X,Intel,1371,13641,8,16,3.6,4.3,Desktop,Desktop ,329.88,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i9 11900,Intel,1473,13499,8,16,2.5,5.2,Desktop,Desktop ,419.99,Very Capable for all categories 
+Core i9 10900,Intel,1367,13439,10,20,2.8,5.2,Desktop,Workstation ,399,Very Capable for all categories 
+Core i7 9800X,Intel,1288,13253,8,16,3.8,4.4,Desktop,Workstation ,298.67,Very Capable for all categories 
+Core i9 11900F,Intel,1413,13209,8,16,2.5,5.2,Desktop,Desktop ,418.99,Very Capable for all categories 
+Core i5 12500,Intel,1824,13145,6,12,3,4.6,Desktop,Desktop ,311,Very Capable for all categories (Gaming)
+Ryzen 7 Pro 4750G,AMD,1344,13109,8,16,3.6,4.4,Desktop,Workstation ,248.97,Very Capable for all categories (Gaming)
+Core i9 9900KF,Intel,1296,12959,8,16,3.6,5,Desktop,Gaming ,375,Very Capable for all categories 
+Ryzen 7 3800XT,AMD,1355,12955,8,16,3.9,4.7,Desktop,Desktop ,206.5,Very Capable for all categories (Gaming)
+Core i9 9900KS,Intel,1289,12879,8,16,4,5,Desktop,Desktop ,957.6,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i7 10700K,Intel,1309,12873,8,16,3.8,5.1,Desktop,Gaming ,261.19,Very Capable for all categories (Gaming)
+Core i7 10700KF,Intel,1309,12873,8,16,3.8,5.1,Desktop,Desktop ,274.99,Very Capable for all categories (Gaming)
+Ryzen 7 4700G,AMD,1353,12827,8,16,3.6,4.4,Desktop,Desktop ,235.12,Very Capable for all categories (Gaming)
+Core i9 10900T,Intel,1283,12648,10,20,1.9,4.6,Desktop,Desktop ,350,Very Capable for all categories 
+Ryzen 7 6800HS,AMD,1505,12645,8,16,3.2,4.7,Desktop,Desktop ,380,Very Capable for all categories (Gaming)
+Core i9 9900K,Intel,1358,12581,8,16,3.6,5,Desktop,Gaming ,565,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i7 10700F,Intel,1272,12440,8,16,2.9,4.8,Desktop,Desktop ,189.99,Very Capable for all categories (Gaming)
+Core i9 9900,Intel,1298,12341,8,16,3.1,5,Desktop,Desktop ,499,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Ryzen 7 3700X,AMD,1345,12195,8,16,3.6,4.4,Desktop,Workstation ,146.97,Very Capable for all categories (Gaming)
+Core i5 12400,Intel,1725,12117,6,12,2.5,4.4,Desktop,Desktop ,149,Very Capable for all categories (Gaming)
+Core i5 12400F,Intel,1736,12071,6,12,2.5,4.4,Desktop,Desktop ,150,Very Capable for all categories (Gaming)
+Core i9 7900X,Intel,1227,12010,10,20,3.3,4.3,Desktop,Workstation ,237.56,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Ryzen 7 4700GE,AMD,1346,11748,8,16,3.6,4.4,Desktop,Gaming ,235.12,Very Capable for all categories (Gaming)
+Core i5 11600KF,Intel,1582,11482,6,12,3.9,4.9,Desktop,Desktop ,214.82,Very Capable for all categories (Gaming)
+Ryzen 5 5600,AMD,1472,11429,6,12,3.5,4.4,Desktop,Desktop ,150,Very Capable for all categories (Gaming)
+Core i5 11600K,Intel,1573,11392,6,12,3.9,4.9,Desktop,Desktop ,178.48,Very Capable for all categories (Gaming)
+Ryzen 5 5600G,AMD,1499,11358,6,12,3.9,4.4,Desktop,Desktop ,121.8,Very Capable for all categories (Gaming)
+Core i5 11600,Intel,1621,11320,6,12,2.8,4.8,Desktop,Desktop ,178.48,Very Capable for all categories (Gaming)
+Ryzen 5 5600X,AMD,1593,11201,6,12,3.7,4.6,Desktop,Desktop ,255,Very Capable for all categories (Gaming)
+Core i7 11700F,Intel,1563,11169,8,16,2.5,4.9,Desktop,Desktop ,255.99,Very Capable for all categories (Gaming)
+Core i9 10900F,Intel,1367,10890,10,20,2.8,5.2,Desktop,Workstation ,332.8,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Ryzen 5 5500,AMD,1372,10710,6,12,3.6,4.2,Desktop,Desktop ,125,Very Capable for all categories (Gaming)
+Core i5 10600K,Intel,1407,10600,6,12,4.1,4.8,Desktop,Desktop ,159.09,Very Capable for all categories (Gaming)
+Core i5 10600KF,Intel,1407,10600,6,12,4.1,4.8,Desktop,Desktop ,175.99,Very Capable for all categories (Gaming)
+Core i7 8086K,Intel,1344,10342,6,12,4,5,Desktop,Desktop ,367,"Very Capable (older generation, might struggle with very demanding tasks in some categories)"
+Core i9 9900T,Intel,1233,10337,8,16,2.1,4.4,Desktop,Desktop ,439,Very Capable for all categories 
+Core i7 10700T,Intel,1285,10322,8,16,2,4.5,Desktop,Desktop ,413,Very Capable for all categories 
+Core i5 11400F,Intel,1346,10235,6,12,2.6,4.4,Desktop,Desktop ,120,Very Capable for all categories (Gaming)
+Ryzen 7 2700X,AMD,1102,10140,8,16,3.7,4.3,Desktop,Desktop ,108,"Very Capable (older generation, might struggle with very demanding tasks in some categories)"
+Core i7 5960X,Intel,1089,10117,8,16,3,3.5,Desktop,Desktop ,106,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Ryzen 7 Pro 4750GE,AMD,1288,10105,8,16,3.6,4.4,Desktop,Desktop ,361,Very Capable for all categories (Gaming)
+Core i5 11500,Intel,1511,9980,6,12,2.7,4.6,Desktop,Desktop ,208,Very Capable for all categories (Gaming)
+Ryzen 5 3600XT,AMD,1330,9945,6,12,3.8,4.2,Desktop,Desktop ,368,Very Capable for all categories (Gaming)
+Core i7 6950X,Intel,1094,9918,10,20,3,3.5,Desktop,Workstation ,283,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i5 11400,Intel,1358,9649,6,12,2.6,4.4,Desktop,Desktop ,139.5,Very Capable for all categories (Gaming)
+Core i7 9700K,Intel,1293,9605,8,8,3.6,4.9,Desktop,Gaming ,260,Very Capable for all categories (Gaming)
+Ryzen 5 3600X,AMD,1323,9526,6,12,3.8,4.2,Desktop,Desktop ,249,Very Capable for all categories (Gaming)
+Ryzen 5 4600G,AMD,1227,9401,6,12,3.7,4.2,Desktop,Desktop ,102,Very Capable for all categories (Gaming)
+Ryzen 7 1800X,AMD,983,9380,8,16,3.6,4,Desktop,Desktop ,295,"Very Capable (older generation, might struggle with very demanding tasks in some categories)"
+Core i7 11700,Intel,1453,9364,8,16,2.5,4.9,Desktop,Desktop ,195,"Very Capable (older generation, might struggle with very demanding tasks in some categories)"
+Ryzen 5 Pro 4650G,AMD,1267,9356,6,12,3.7,4.2,Desktop,Desktop ,107,Very Capable for all categories (Gaming)
+Core i7 9700KF,Intel,1261,9346,8,8,3.6,4.9,Desktop,Gaming ,239,Very Capable for all categories (Gaming)
+Core i5 10600,Intel,1298,9076,6,12,3.3,4.8,Desktop,Desktop ,218.21,Very Capable for all categories (Gaming)
+Ryzen 5 3600,AMD,1245,9073,6,12,3.6,4.2,Desktop,Desktop ,86,"Very Capable (older generation, might struggle with very demanding tasks in some categories)"
+Ryzen 7 2700,AMD,1067,9005,8,16,3.2,4.1,Desktop,Desktop ,108,"Very Capable (older generation, might struggle with very demanding tasks in some categories)"
+Core i7 8700K,Intel,1227,8990,6,12,3.7,4.7,Desktop,Desktop ,250,"Very Capable (older generation, might struggle with very demanding tasks in some categories)"
+Threadripper 1900X,AMD,1005,8979,8,16,3.8,4,Desktop,Workstation ,140,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Ryzen 7 1700X,AMD,987,8872,8,16,3.4,3.8,Desktop,Desktop ,72,"Very Capable (older generation, might struggle with very demanding tasks in some categories)"
+Core i7 10700,Intel,1237,8649,8,16,2.9,4.8,Desktop,Desktop ,227,Very Capable for all categories 
+Core i7 9700,Intel,1210,8631,8,8,3,4.7,Desktop,Gaming ,168,Very Capable for all categories (Gaming)
+Core i7 9700F,Intel,1193,8631,8,8,3,4.7,Desktop,Gaming ,202,Very Capable for all categories (Gaming)
+Ryzen 3 5300G,AMD,1298,8504,4,8,4,4.2,Desktop,Desktop ,150,"Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing) (budget CPU, might struggle with very demanding tasks)"
+Core i3 12100F,Intel,1650,8467,4,8,3.3,4.3,Desktop,Desktop ,136,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing, Simulation, Machine Learning & AI)"
+Core i5 10500,Intel,1096,8272,6,12,3.1,4.5,Desktop,Desktop ,228,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing, Simulation, Machine Learning & AI)"
+Core i3 12100,Intel,1693,8197,4,8,3.3,4.3,Desktop,Desktop ,138,"Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing) (budget CPU, might struggle with very demanding tasks)"
+Ryzen 7 2700E,AMD,1057,8176,8,16,2.8,4,Desktop,Desktop ,329,"Very Capable (older generation, might struggle with very demanding tasks in some categories)"
+Ryzen 7 1700,AMD,954,8138,8,16,3,3.7,Desktop,Desktop ,219,"Very Capable (older generation, might struggle with very demanding tasks in some categories)"
+Core i5 10600T,Intel,1134,7901,6,12,2.4,4,Desktop,Desktop ,213,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing, Simulation, Machine Learning & AI)"
+Core i5 10400F,Intel,1119,7724,6,12,2.9,4.3,Desktop,Desktop ,109,"Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing)"
+Core i5 10400,Intel,1137,7670,6,12,2.9,4.3,Desktop,Desktop ,140,"Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing)"
+Core i5 10500T,Intel,1086,7531,6,12,2.3,3.8,Desktop,Desktop ,100,"ery Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing, Simulation, Machine Learning & AI)"
+Ryzen 5 2600X,AMD,1094,7523,6,12,3.6,4.2,Desktop,Desktop ,77,"ery Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing, Simulation, Machine Learning & AI)"
+Core i7 7800X,Intel,983,7445,6,12,3.5,4,Desktop,Desktop ,174,"Design-Engineering & 3D Modeling, Simulation, Machine Learning & AI & Video Editing"
+Core i7 6850K,Intel,1004,7422,6,12,3.6,3.8,Desktop,Desktop ,125,Very Capable (all categories) (older generation)
+Core i5 9600KF,Intel,1277,7403,6,6,3.7,4.6,Desktop,Desktop ,159.9,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing, Simulation, Machine Learning & AI)"
+Ryzen 5 2600,AMD,1016,7173,6,12,3.4,3.9,Desktop,Desktop ,77,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing, Simulation, Machine Learning & AI)"
+Core i7 8700,Intel,1227,7160,6,12,3.2,4.6,Desktop,Desktop ,140,Very Capable (all categories) (older generation)
+Core i5 10400T,Intel,998,6883,6,12,2,3.6,Desktop,Desktop ,182,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing, Simulation, Machine Learning & AI)"
+Core i7 6800K,Intel,966,6854,6,12,3.4,3.6,Desktop,Desktop ,133,Very Capable (all categories) (older generation)
+Ryzen 3 3300X,AMD,1307,6845,4,8,3.8,4.3,Desktop,Desktop ,146,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing)"
+Core i5 8600K,Intel,1261,6814,6,6,3.6,4.3,Desktop,Desktop ,118,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing, Simulation, Machine Learning & AI)"
+Core i5 9600K,Intel,1192,6708,6,6,3.7,4.6,Desktop,Desktop ,201,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing, Simulation, Machine Learning & AI)"
+Ryzen 5 1600X,AMD,949,6541,6,12,3.6,4,Desktop,Desktop ,138.8,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing, Simulation, Machine Learning & AI)"
+Core i3 10320,Intel,1312,6490,4,8,3.8,4.6,Desktop,Desktop ,139,"Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing) (budget CPU)"
+Core i5 9400F,Intel,1130,6284,6,6,2.9,4.1,Desktop,Desktop ,149,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing)"
+Ryzen 5 1600,AMD,903,6282,6,12,3.2,3.6,Desktop,Desktop ,138.84,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing)"
+Ryzen 3 Pro 4350G,AMD,1178,6093,4,8,3.8,4,Desktop,Desktop ,120,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing)"
+Core i5 9500,Intel,1142,6091,6,6,3,4.4,Desktop,Desktop ,159,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing)"
+Core i3 10300,Intel,1248,6051,4,8,3.7,4.4,Desktop,Desktop ,100,"Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing)"
+Core i5 8400,Intel,1039,5946,6,6,2.8,4,Desktop,Desktop ,142," Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing)"
+Core i7 7700K,Intel,1235,5940,4,8,4.2,4.5,Desktop,Desktop ,159,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing, Simulation, Machine Learning & AI) (older generation)"
+Ryzen 3 4300GE,AMD,1215,5798,4,8,3.5,4,Desktop,Desktop ,125,"Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing)"
+Core i3 10105F,Intel,1172,5776,4,8,3.7,4.4,Desktop,Desktop ,74,"Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing)"
+Ryzen 3 3100,AMD,1105,5423,4,8,3.6,3.9,Desktop,Ryzen 3 3100,71.65,"Very Capable (Gaming), Good (Design-Engineering & 3D Modeling, Video Editing)"

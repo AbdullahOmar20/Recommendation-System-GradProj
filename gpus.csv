@@ -1,0 +1,91 @@
+GpuName,G3DMark,G2DMark,Price,GpuValue,TDP,PowerPerformance,TestDate,Category,Subcategory
+GeForce RTX 3090 Ti,29094,1117,"2,199",13.85,450,64.65,2022,"Gaming, Workstation, Desktop",Video Editing & Gaming
+GeForce RTX 3080 Ti,26887,1031,1229,22.41,350,76.82,2021,"Gaming, Workstation, Desktop",Video Editing & Gaming
+GeForce RTX 3090,26395,999,1881,15.08,350,75.41,2020,"Gaming, Workstation, Desktop",Video Editing & Gaming
+Radeon RX 6900 XT,25458,1102,669,22.72,300,84.86,2020,"Gaming, Workstation, Desktop",Video Editing & Gaming
+GeForce RTX 3070 Ti,23367,1003,585,31.16,290,80.58,2021,"Gaming, Workstation, Desktop",Video Editing & Gaming
+Radeon RX 6800 XT,23364,1078,559,27.2,300,77.88,2020,"Gaming, Workstation, Desktop",Video Editing & Gaming
+RTX A5000,22867,984,3007,8.69,230,99.42,2021,"Workstation, Desktop",Machine Learning & AI
+RTX A6000,22122,832,4000,4.42,300,73.74,2021,"Workstation, Desktop",Machine Learning & AI
+GeForce RTX 3070,22093,969,760,30.69,220,100.42,2020,"Gaming, Workstation, Desktop",Video Editing & Gaming
+GeForce RTX 2080 Ti,21796,940,315,21.83,250,87.18,2018,"Gaming, Workstation, Desktop",Video Editing & Gaming
+RTX A4500,21546,892,"1,780",10.09,200,107.73,2022,"Workstation, Desktop",Machine Learning & AI
+Radeon RX 6800,20667,1030,579,27.23,250,82.67,2020,"Gaming, Workstation, Desktop",Video Editing & Gaming
+GeForce RTX 3060 Ti,20206,961,359.99,33.68,200,101.03,2020,"Gaming, Workstation, Desktop",Video Editing & Gaming
+TITAN RTX,20169,844,2499,7.22,280,72.03,2018,"Gaming, Workstation, Desktop",Video Editing & Gaming
+Quadro RTX 6000,19692,837,"4,699",3.13,295,66.75,2018,"Workstation, Desktop","Design-Engineering, 3D Modeling, Simulation"
+GeForce RTX 2080 SUPER,19519,934,699,28.54,250,78.08,2019,"Gaming, Workstation, Desktop",Video Editing & Gaming
+TITAN Xp,19508,992,"1,200",0,250,78.03,2020,"Gaming, Workstation, Desktop",Video Editing & Gaming
+Quadro RTX 8000,19126,801,4741.49,4.03,260,73.56,2019,"Workstation, Desktop","Design-Engineering, 3D Modeling, Simulation"
+Radeon RX 6700 XT,18993,1014,731,35.84,230,82.58,2021,"Gaming, Workstation, Desktop",Video Editing & Gaming
+RTX A4000,18988,938,744.99,15.39,140,135.63,2021,"Workstation, Desktop",Machine Learning & AI
+Radeon PRO W6800,18802,914,1849,8.57,250,75.208,2021,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+GeForce RTX 2080,18732,917,806.6,29.59,250,74.93,2018,"Gaming, Workstation, Desktop",Video Editing & Gaming
+GeForce RTX 2070 SUPER,18168,896,550,29.6,215,84.5,2019,"Gaming, Workstation, Desktop",Video Editing & Gaming
+Quadro GV100,17675,841,8999,1.96,250,70.7,2018,"Workstation, Desktop","Design-Engineering, 3D Modeling, Simulation"
+TITAN V CEO Edition,16988,1086,3000,0,250,67.95,2018,"Gaming, Workstation, Desktop",Machine Learning & AI
+GeForce RTX 3060,16958,951,259.99,51.55,170,99.76,2021,"Gaming, Desktop",Video Editing & Gaming
+Radeon RX 5700 XT,16892,955,436.85,24.31,225,75.08,2019,"Gaming, Workstation, Desktop",Video Editing & Gaming
+Radeon Pro VII,16853,720,699,0,250,67.41,2020,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon VII,16767,788,1899.95,8.82,300,55.89,2019,"Gaming, Workstation, Desktop",Video Editing & Gaming
+Radeon RX 5700 XT 50th Anniversary,16650,965,449,0,235,70.85,2019,"Gaming, Workstation, Desktop",Video Editing & Gaming
+GeForce RTX 2060 SUPER,16514,881,499,31.22,175,94.37,2019,"Gaming, Desktop",Video Editing & Gaming
+Quadro RTX 5000,16260,763,799.99,0,230,70.7,2019,"Workstation, Desktop","Design-Engineering, 3D Modeling, Simulation"
+Tesla V100-SXM2-16GB,16235,406,500,0,0,0,2019,"Workstation, Desktop",Machine Learning & AI
+GeForce RTX 2070,16079,833,390.59,25.63,175,91.88,2018,"Gaming, Workstation, Desktop",Video Editing & Gaming
+Radeon RX 6600 XT,15853,1003,450,39.63,160,99.08,2021,"Gaming, Desktop",Video Editing & Gaming
+Quadro RTX 4000,15515,904,899,17.26,160,96.97,2019,"Workstation, Desktop","Design-Engineering, 3D Modeling, Simulation"
+Radeon Pro W5700,15085,908,649.99,9.14,205,73.59,2020,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon Pro Vega II,14738,827,3000,0,0,0,2020,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon RX 5700,14729,926,310,16.37,180,81.83,2019,"Gaming, Workstation, Desktop",Video Editing & Gaming
+Radeon Pro Vega 64X,14630,948,"1,699",0,0,0,2021,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon PRO W6600,14212,1006,797.55,0,0,0,2021,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon Pro WX 8200,14110,824,1599.39,8.82,230,61.35,2018,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+GeForce RTX 2060,13953,752,269,35.78,160,87.2,2019,"Gaming, Desktop",Video Editing & Gaming
+Radeon RX 6600,13881,945,329,0,0,0,2021,"Gaming, Desktop",Video Editing & Gaming
+Radeon RX 5600 XT,13836,914,545,25.39,150,92.24,2020,"Gaming, Desktop",Video Editing & Gaming
+RTX A2000 12GB,13688,1018,630,0,0,0,2022,"Workstation, Desktop",Machine Learning & AI
+RTX A2000,13128,928,727,15.52,0,0,2021,"Workstation, Desktop",Machine Learning & AI
+Radeon Pro V520 MxGPU,12853,546,800,0,0,0,2020,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+GeForce GTX 1660 SUPER,12732,823,220,38.58,125,101.85,2019,"Gaming, Desktop",Video Editing & Gaming
+GeForce RTX 3050,12718,911,170,0,0,0,2022,"Gaming, Desktop",Video Editing & Gaming
+Radeon Pro 5700 XT,12537,831,239,0,130,96.43,2020,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon Pro Vega 64,12402,836,599,0,0,0,2018,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon Pro Vega 56,12386,860,"1,009",0,0,0,2018,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Quadro P5200 with Max-Q Design,12323,581,1750,0,0,0,2018,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon RX 6700S,11989,829,500,0,0,0,2022,"Gaming, Desktop",Video Editing & Gaming
+Quadro P4200 with Max-Q Design,11869,583,1500,0,0,0,2018,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon Pro 5700,11844,829,999,0,130,91.11,2020,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+GeForce GTX 1660 Ti,11794,702,299,33.7,120,98.29,2019,"Gaming, Desktop",Video Editing & Gaming
+GeForce GTX 1660,11695,796,422,29.24,120,97.46,2019,"Gaming, Desktop",Video Editing & Gaming
+Tesla M40 24GB,11658,372,239,0,0,0,2021,"Workstation, Desktop",Machine Learning & AI
+Radeon Pro Vega 48,11504,821,671,0,0,0,2019,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon RX 6700M,11499,550,269,0,0,0,2021,"Gaming, Desktop",Video Editing & Gaming
+Radeon RX 5600,11030,935,350,0,150,73.53,2020,"Gaming, Desktop",Video Editing & Gaming
+Radeon Pro SSG,10498,601,2410,4.36,0,0,2018,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon Instinct MI25 MxGPU,10466,727,399,0,0,0,2020,"Workstation, Desktop",Machine Learning & AI
+Radeon R9 Fury X,10088,875,129,0,0,0,2020,"Gaming, Desktop",Video Editing & Gaming
+GeForce GTX 1650 SUPER,10032,761,169,22.75,100,100.32,2019,"Gaming, Desktop",Video Editing & Gaming
+Quadro P4200,9827,607,450,0,100,98.27,2018,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon RX 590,9665,810,250,17.57,175,55.23,2018,"Gaming, Desktop",Video Editing & Gaming
+Quadro P2200,9486,971,478,16.43,75,126.47,2019,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon RX 6500 XT,9445,910,169,47.23,0,0,2022,"Gaming, Desktop",Video Editing & Gaming
+Radeon Pro W5500,9269,896,275,19.27,125,74.15,2020,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon RX 5500 XT,9188,824,135,20.46,130,70.68,2019,"Gaming, Desktop",Video Editing & Gaming
+Radeon RX 5500,8817,864,419,0,150,58.78,2019,"Gaming, Desktop",Video Editing & Gaming
+GeForce GTX 1060 5GB,8704,680,120,17.84,120,72.54,2018,"Gaming, Desktop",Video Editing & Gaming
+GeForce GTX 1650,7807,592,149,37.35,75,104.09,2019,"Gaming, Desktop",Video Editing & Gaming
+Radeon RX 580X,7798,885,499,0,185,42.15,2019,"Gaming, Desktop",Video Editing & Gaming
+Radeon RX 580 2048SP,7768,669,409,0,0,0,2019,"Gaming, Desktop",Video Editing & Gaming
+Radeon Pro 580,7753,943,455,0,0,0,2018,"Workstation, Desktop","Design-Engineering, 3D Modeling"
+Radeon RX 5300,7611,854,129,0,100,76.11,2021,"Gaming, Desktop",Video Editing & Gaming
+Radeon RX 6400,6958,899,187,43.49,0,0,2022,"Gaming, Desktop",Video Editing & Gaming
+Quadro P620,3640,575,511,15.39,40,91,2018,Workstation,"Design-Engineering, 3D Modeling"
+Radeon Pro 455,3113,705,449,6.93,0,0,2018,Desktop,"Design-Engineering, 3D Modeling"
+Barco MXRT 5500,2702,510,299,9.04,0,0,2018,Workstation,"Design-Engineering, 3D Modeling"
+FirePro V8800,2223,471,198,11.23,0,0,2020,Workstation,Video Editing & Gaming
+Radeon RX Vega 11,2137,535,1002,2.13,0,0,2018,Desktop,Video Editing & Gaming
+Quadro P520,2126,253,1499,1.42,0,0,2019,Workstation,"Design-Engineering, 3D Modeling"
+FirePro V7800,2034,290,149,10.7,0,0,2018,Workstation,Video Editing & Gaming
+Radeon 550,1959,501,59,19.59,0,0,2022,Desktop,Video Editing & Gaming
+Radeon RX 570X,1923,750,170,6.87,120,16.03,2020,Desktop,Video Editing & Gaming
