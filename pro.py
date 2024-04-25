@@ -7,6 +7,8 @@ from flask import Flask, request,jsonify
 
 CPUs = pd.read_csv("cpufinalv.csv")
 GPU = pd.read_csv("gpus.csv")
+CPUs['Price']= CPUs["Price"].replace(',','',regex=True).astype(float)
+GPU['Price']= GPU["Price"].replace(',','',regex=True).astype(float)
 CPUclean = CPUs.copy()
 remove_spec = lambda a : a.strip()
 create_list = lambda a : list(map(remove_spec,re.split('& |,|\\*|-', a)))
@@ -33,7 +35,7 @@ def couple(x):
 def coupleGPU(x):
     return ' '.join(x['Category']) + ' ' + ' '.join(x['Subcategory'])
 CPUclean['Features'] = CPUclean.apply(couple, axis=1)
-GPU['Features'] = GPU.apply(couple, axis=1)
+GPU['Features'] = GPU.apply(coupleGPU, axis=1)
 
 
 count_vector = CountVectorizer(stop_words="english")
@@ -69,6 +71,7 @@ def CPU_Recomm_System_v4(title, max_price):
  
 def GPU_Recomm_System(title,max_price):
     a=GPU.copy()
+    
     matches = process.extractOne(title, a['Features'])
     if matches[1]<5:
        return 'No Close match found'
@@ -139,11 +142,11 @@ def Get_cases(budget,type):
         condition="MicroATX Mid Tower"
     else:
         condition="Mini ITX Tower"
-    filtered_case = cases[(cases["type"] == condition)&(cases["type"]<=int(budget))]
+    filtered_case = cases[(cases["type"] == condition)&(cases["price"]<=int(budget))]
     sorted_cases = filtered_case.sort_values(by="price",ascending=False)
     if sorted_cases.empty:
         return "no matches for cases"
-    return sorted_cases.iloc[0]["name","price","type"].tolist()
+    return sorted_cases.iloc[0][["name","price","type"]].tolist()
 
 psu=pd.read_csv("modified_psu.csv")
 def Get_psu(budget):
@@ -171,16 +174,17 @@ def RecommSys(input,p1,SSDcheck,case):
     percentage = Get_precentage(input.split()[0])
     budget = int(p1)
     CPUprice=budget*(percentage)/100
-    GPUprice =budget*(50-percentage)/100
+    GPUprice =budget*25/100
     MBprice = budget*10/100
-    RAMprice = budget*12/100
-    SSDprice,HDDprice=0
+    RAMprice = budget*10/100
+    SSDprice=0
+    HDDprice=0
     if(SSDcheck == "yes"):
         SSDprice = budget*10/100
     else:
         SSDprice = budget*5/100
         HDDprice = budget*5/100
-    Caseprice = budget*6/100
+    Caseprice = budget*10/100
     PSUprice = budget*8/100
     Coolerprice = budget*4/100
     MBform = ""
@@ -206,7 +210,15 @@ def RecommSys(input,p1,SSDcheck,case):
     
     
     CPUresult = recommend.iloc[0][["CpuName","Price"]].tolist()
-    GPUresult = GPU_Recomm_System(input,GPUprice).iloc[0][["GpuName","Price"]].tolist()
+    GPUinput = ""
+    if input.split()[1] == "very":
+        GPUinput="Design-Engineering, 3D Modeling, Simulation"
+        
+    m = GPU_Recomm_System(GPUinput,GPUprice)
+    if m.empty:
+        GPUresult=GPUprice
+    else:
+        GPUresult = GPU_Recomm_System(input,GPUprice).iloc[0][["GpuName","Price"]].tolist()
     
     result = {
         "CPU":CPUresult,
