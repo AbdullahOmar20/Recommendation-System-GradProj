@@ -1,6 +1,6 @@
 ﻿gunicorn
 pandas
-sklearn
+scikit-learn
 fuzzywuzzy
 flask
 re
