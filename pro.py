@@ -49,7 +49,7 @@ Cosine_sim_df_GPU = pd.DataFrame(Cosine_sim_GPU)
 def CPU_Recomm_System_v4(title, max_price):
     a=CPUclean.copy()
     matches = process.extractOne(title, a['Features'])
-    if matches[1]<5:
+    if matches[1]<1:
        return 'No Close match found'
     index = a[a['Features'] == matches[0]].index[0]
     top_n_index = list(Cosine_sim_df[index].nlargest(20).index)
@@ -73,7 +73,7 @@ def GPU_Recomm_System(title,max_price):
     a=GPU.copy()
     
     matches = process.extractOne(title, a['Features'])
-    if matches[1]<5:
+    if matches[1]<1:
        return 'No Close match found'
     index = a[a['Features'] == matches[0]].index[0]
     top_n_index = list(Cosine_sim_df_GPU[index].nlargest(20).index)
@@ -96,10 +96,10 @@ def GPU_Recomm_System(title,max_price):
 def Get_precentage(inputStr):
     if inputStr == "workstation":
         return 30
-    elif inputStr == "gaming":
+    elif inputStr == "desktop":
         return 20
     else:
-        25
+        return 25
         
 MB = pd.read_csv("MB.csv")        
 def Get_MB(budget,formfactor):
@@ -161,7 +161,7 @@ def Get_cooler(budget):
     filtered_cooler = cooler[cooler["price"]<=int(budget)]
     sorted_cooler = filtered_cooler.sort_values(by="price",ascending=False)
     if sorted_cooler.empty:
-        return "no matches for SSD"
+        return "no matches for cooler"
     return sorted_cooler.iloc[0][["name","price"]].tolist()
 
 
@@ -196,10 +196,7 @@ def RecommSys(input,p1,SSDcheck,case):
         MBform = "Mini-ITX"
     
     
-    recommend = CPU_Recomm_System_v4(input,CPUprice)
-    #if there is no matches
-    if isinstance(recommend,str):
-        return jsonify(recommend), 404
+    
     MBresult = Get_MB(MBprice,MBform)
     RAMresult = Get_RAM(RAMprice)
     HDDresult = Get_HDD(HDDprice)
@@ -208,17 +205,32 @@ def RecommSys(input,p1,SSDcheck,case):
     PSUresult = Get_psu(PSUprice)
     Coolerresult = Get_cooler(Coolerprice)
     
+    recommend = CPU_Recomm_System_v4(input,CPUprice)
+    #if there is no matches
+    CPUresult=""
+    if isinstance(recommend,str):
+        CPUresult="no matches found"
+    else:
+        if recommend.empty:
+            CPUresult="no matches found"
+        else:
+            CPUresult = recommend.iloc[0][["CpuName","Price"]].tolist()
+            
     
-    CPUresult = recommend.iloc[0][["CpuName","Price"]].tolist()
     GPUinput = ""
     if input.split()[1] == "very":
         GPUinput="Design-Engineering, 3D Modeling, Simulation"
-        
-    m = GPU_Recomm_System(GPUinput,GPUprice)
-    if m.empty:
-        GPUresult=GPUprice
     else:
-        GPUresult = GPU_Recomm_System(input,GPUprice).iloc[0][["GpuName","Price"]].tolist()
+        GPUinput=input
+        
+    GPUrecommend = GPU_Recomm_System(GPUinput,GPUprice)
+    if isinstance(GPUrecommend,str):
+        GPUresult="no matches found"
+    else:
+        if GPUrecommend.empty:
+            GPUresult="no matches found"
+        else:
+            GPUresult = GPU_Recomm_System(input,GPUprice).iloc[0][["GpuName","Price"]].tolist()
     
     result = {
         "CPU":CPUresult,
