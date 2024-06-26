@@ -169,7 +169,7 @@ def Get_cooler(budget):
     
 app = Flask(__name__)
 
-@app.route("/recommsys/<input>,<p1>,<SSDcheck>,<case>")
+@app.route("/recommsys/<input>,<p1>,<SSDcheck>,<case>",methods=["GET"])
 def RecommSys(input,p1,SSDcheck,case):
     percentage = Get_precentage(input.split()[0])
     budget = int(p1)
@@ -243,7 +243,9 @@ def RecommSys(input,p1,SSDcheck,case):
         "PSU":PSUresult,
         "Cooler":Coolerresult
     }
-    return jsonify(result),200
+    response = jsonify(result)
+    response.headers.add("Access-Control-Allow-Origin", "*")
+    return response
     
 
 if __name__ == "__main__":
